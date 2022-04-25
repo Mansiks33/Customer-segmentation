@@ -19,7 +19,7 @@ Starting from the basic criteria, like gender, hobby, or age, it goes all the wa
 
 **Machine learning algorithm that’s suitable for customer segmentation problems is the k-means clustering algorithm.**
 
-**Why would you implement machine learning for customer segmentation?
+**Why would you implement machine learning for customer segmentation?**
 1. More time
 2. Ease of retraining
 3. Better scaling
